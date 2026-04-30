@@ -1,8 +1,6 @@
 # 🌍 Projet Final Tableau – Analyse du Bonheur Mondial (2015‑2023)
 
-**Auteur :** [Votre Nom]  
-**Date :** [Date]  
-**Classeur Tableau Public :** [URL]
+**Auteur :** [ju]  
 
 ## Description
 Ce projet analyse les données du World Happiness Report (2015‑2023) à travers six parties :
