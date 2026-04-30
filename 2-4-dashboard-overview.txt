@@ -1,0 +1,13 @@
+
+---
+
+### 📄 `instructions/partie2/2-4-dashboard-overview.md`
+
+```markdown
+# Partie 2 – Tâche 4 : Tableau de bord « Aperçu de l’état du bonheur (2015‑2023) »
+
+1. Créez un nouveau tableau de bord.
+2. Glissez-y les trois feuilles précédentes.
+3. Activez l'icône **Utiliser comme filtre** sur `Score moyen par région`.
+4. Ajustez la mise en page, titres visibles.
+5. Enregistrez sous le nom exact : **« Aperçu de l’état du bonheur (2015‑2023) »**.
